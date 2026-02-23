@@ -3,7 +3,8 @@
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
 # Program
-ASK
+ASK 
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -49,7 +50,7 @@ plt.subplot(4, 1, 4)
 plt.step(np.arange(len(decoded_bits)), decoded_bits, label='Decoded Bits', color='r', marker='x')
 plt.title('Decoded Bits')
 plt.tight_layout()
-plt.show()Attach the program
+plt.show()
 
 FSK
 import numpy as np
