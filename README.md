@@ -60,10 +60,10 @@ plt.tight_layout(); plt.show()
 
 # Output Waveform
 ASK
-<img width="1190" height="790" alt="508106456-bde1ea11-d732-461e-90bb-b9cb4f6bb9d8" src="https://github.com/user-attachments/assets/3076f6da-805a-4d40-adc5-c35e3d864d67" />
+<img width="943" height="658" alt="549830920-163de103-f50b-40b8-b7cc-a72c674f00a6" src="https://github.com/user-attachments/assets/33c148c9-c574-4e21-bdc8-c95c4db74cff" />
 
 FSK
-<img width="1201" height="1012" alt="508108306-8adfb7d2-54f7-4ce4-840b-8a693c6dae0b" src="https://github.com/user-attachments/assets/209bc4b8-719d-4954-87c2-acb51322fb0f" />
+<img width="849" height="846" alt="549830957-c5ba5905-f16a-444e-aa41-1a7de8ca095a" src="https://github.com/user-attachments/assets/c42e64a6-2d88-4b06-b48a-ff3363e83fdc" />
 
 # Results
 THUS, THE ASK (Amplitude Shift Keying) AND FSK (Frequency Shift Keying) ARE PERFORMED USING PYTHON
